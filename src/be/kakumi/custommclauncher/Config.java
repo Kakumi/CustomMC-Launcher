@@ -20,11 +20,11 @@ public class Config {
     public static final File DIR_CRASH = new File(DIR, "crash-reports");
 
     //Update options
-    public static final String SITE_WEB_UPDATER = "http://goldenage.inovaperf.me/launcher/";
+    public static final String SITE_WEB_UPDATER = "Your S-Update link";
     public static final String RESOURCES_PATH = "/be/kakumi/custommclauncher/ressources/";
 
     //Discord options
-    public static final String DISCORD_LINK = "https://discord.gg/nmhUS3x";
+    public static final String DISCORD_LINK = "Your discord link";
     public static final boolean USE_DISCORD_INTEGRATION = true;
     public static final String DISCORD_LARGE_IMG_KEY = "logo";
     public static final String DISCORD_APP_ID = "663140649557557261";

@@ -27,7 +27,7 @@ public class Config {
     public static final String DISCORD_LINK = "Your discord link";
     public static final boolean USE_DISCORD_INTEGRATION = true;
     public static final String DISCORD_LARGE_IMG_KEY = "logo";
-    public static final String DISCORD_APP_ID = "663140649557557261";
+    public static final String DISCORD_APP_ID = "Your Discord App ID";
 
     //Encryption options
     public static final boolean AUTO_LOAD_PASSWORD = true;

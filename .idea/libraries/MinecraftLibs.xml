@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MinecraftLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/openauth-1.0.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

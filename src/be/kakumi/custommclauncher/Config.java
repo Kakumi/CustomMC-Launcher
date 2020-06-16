@@ -13,6 +13,7 @@ public class Config {
     public static final GameVersion VERSION = new GameVersion("1.12", GameType.V1_8_HIGHER);
     public static int WINDOW_WIDTH = 975;
     public static int WINDOW_HEIGHT = 685;
+    public static final String RESOURCES_PATH = "/be/kakumi/custommclauncher/ressources/";
 
     //Game Directory options
     public static final GameInfos INFOS = new GameInfos(LAUNCHER_NAME.replaceAll(" ", "-").toLowerCase(), VERSION, new GameTweak[] {GameTweak.FORGE});
@@ -21,7 +22,6 @@ public class Config {
 
     //Update options
     public static final String SITE_WEB_UPDATER = "Your S-Update link";
-    public static final String RESOURCES_PATH = "/be/kakumi/custommclauncher/ressources/";
 
     //Discord options
     public static final String DISCORD_LINK = "Your discord link";
